@@ -1,0 +1,15 @@
+.export-excel {
+  background-color: #c0003d;
+  border-color: #1197e6;
+  clear: both;
+  color: #fff;
+  padding: 1rem 2rem 1.0625rem;
+  text-align: center;
+}
+
+.export-excel:hover {
+  background-color: #9d0032;
+  color: #fff;
+  transition: background-color 300ms ease-out 0s;
+}
+
